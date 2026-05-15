@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.windsurf/
+
+# Logs / temp
+*.log
+*.tmp
+.cache/
+
+# Node (in case any tooling lands here later)
+node_modules/
