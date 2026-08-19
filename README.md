@@ -21,6 +21,7 @@ Portable source of truth for AI4Love positioning, personas, agents, doctrine, an
 | [business/](business/README.md) | Pricing, cost model, unit economics. |
 | [competitors/](competitors/README.md) | Competitor briefs for the five mapped competitors. |
 | [integrations/](integrations/README.md) | Supported platforms and integration tiers. |
+| [sources/dropbox-2026-06-22/](sources/dropbox-2026-06-22/INGEST.md) | June 22 2026 Dropbox source pack (ingested 18 Aug 2026). Spec, integration sheet, product overview, social add-on. Live Trust Center still wins. See CONFLICTS.md. |
 
 ## Versioning
 
