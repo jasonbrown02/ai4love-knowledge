@@ -74,4 +74,4 @@ Signs alone under $25K USD for pilots in his portfolio. Co-approves $25K-$100K w
 
 ## Strategic note
 
-David's killer objection ("every unit must change workflow first") is the most architecturally important across all six personas. AI4Love's federated, zero-custody design is the answer. Pass B should test homepage and demo for any language that implies workflow change.
+David's killer objection ("every unit must change workflow first") is the most architecturally important across all six personas. AI4Love's federated, bounded-custody design is the answer. Pass B should test homepage and demo for any language that implies workflow change.

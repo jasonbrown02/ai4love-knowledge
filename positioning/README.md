@@ -27,7 +27,7 @@ The locked three-line hierarchy from Pass A v3. Each line does a different job. 
 
 **Job:** creates strategic curiosity. Names the architectural contrast against every CRM hub.
 
-**Source:** derived from the Zero Custody Principle in the System Spec.
+**Source:** derived from the Bounded Custody model in System Spec v3.4 section 1 (formerly the Zero Custody Principle; retired September 2026).
 
 **Surfaces:**
 - AI4Love.ca below-the-fold positioning paragraph
