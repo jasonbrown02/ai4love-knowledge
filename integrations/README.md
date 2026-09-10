@@ -76,4 +76,4 @@ Current build status for platform connectors. Source: AI4Love API Integration St
 
 ## Connection architecture
 
-All integrations are owned per organization. Nango handles OAuth at the dashboard Integrations page. Make.com pulls credentials from Nango when running syncs. AI4Love never handles vendor credentials directly. Zero-custody model.
+All integrations are owned per organization. Nango handles OAuth at the dashboard Integrations page. Make.com pulls credentials from Nango when running syncs. AI4Love never handles vendor credentials directly. Bounded custody: read-only sources, one isolated working base per organization deleted after the exit window (System Spec v3.4 section 1).
