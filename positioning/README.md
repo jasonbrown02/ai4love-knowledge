@@ -27,7 +27,9 @@ The locked three-line hierarchy from Pass A v3. Each line does a different job. 
 
 **Job:** creates strategic curiosity. Names the architectural contrast against every CRM hub.
 
-**Source:** derived from the Bounded Custody model in System Spec v3.4 section 1 (formerly the Zero Custody Principle; retired September 2026).
+**Source:** derived from the Bounded Retention model in System Spec v3.5 section 1.
+
+AI4Love holds one working Airtable base per organization in AI4Love's account as a service provider. The base is isolated per organization. It exists only while service is active plus a 90-day exit window, then it is deleted. Full export is available on request. The client organization remains the institution responsible for the personal information under FIPPA. An organization-held mirror (Owned Copy) is designed but not running in production and is described only as planned.
 
 **Surfaces:**
 - AI4Love.ca below-the-fold positioning paragraph

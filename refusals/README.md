@@ -6,7 +6,7 @@ The locked refusals from Pass A v3 Decision 3. These back the abstract restraint
 
 Hospital foundations and university advancement offices are governance-heavy buyers. Their procurement process asks four institutional-risk questions:
 
-1. Does the vendor take custody of our data?
+1. What data does the vendor retain, and who remains responsible for it?
 2. Does the vendor take autonomous action on our donors?
 3. Does the vendor write into our systems of record?
 4. Is the AI black-box or auditable?

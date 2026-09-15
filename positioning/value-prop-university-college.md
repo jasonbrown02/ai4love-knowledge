@@ -80,7 +80,7 @@ Every unit needs to keep its own system and its own process. Central needs one v
 
 **Data governance without slowing useful work.**
 
-Every new tool triggers a privacy impact assessment, a security review, and a procurement cycle. AI4Love connects through OAuth, takes no custody of data, writes nothing back, and can be revoked at any time. The procurement answers are short and the answers do not change.
+Every new tool triggers a privacy impact assessment, a security review, and a procurement cycle. AI4Love connects through OAuth, holds an isolated working base as service provider, writes nothing back, and can be revoked at any time. The procurement answers are short and the answers do not change.
 
 **Athletics, NIL, and donor intent confusion.**
 
@@ -150,7 +150,7 @@ If AI4Love is not the right fit, your data stays where it always was, in your sy
 
 ## What this is not
 
-Not a CRM replacement. Not a data warehouse build. Not a platform that forces decentralized units to adopt a shared workflow. Not enterprise software with a multi-year implementation. Not an AI tool that drafts donor-facing communication. Not a vendor that takes custody of your data.
+Not a CRM replacement. Not a data warehouse build. Not a platform that forces decentralized units to adopt a shared workflow. Not enterprise software with a multi-year implementation. Not an AI tool that drafts donor-facing communication. The working base follows Bounded Retention, with full export on request.
 
 We are the layer above. We make what your institution already does work harder together.
 

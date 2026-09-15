@@ -63,7 +63,7 @@ Signs alone under $25K CAD. Co-leads $25K-$100K with IT/procurement. Architect f
 ## How AI4Love positioning lands
 
 - **Master category:** strong. "Intelligence layer" matches his mental model of approved-stack architecture.
-- **Strategic inversion:** very strong. Bounded Custody (read-only sources, one isolated working base deleted after the 90-day exit window, Owned Copy planned) directly addresses his privacy risk fears.
+- **Strategic inversion:** very strong. Bounded Retention (read-only sources, one isolated working base deleted after the 90-day exit window, Owned Copy planned) directly addresses his privacy risk fears.
 - **Behavioral doctrine:** strong. "We never send" eliminates the dean-embarrassment scenario.
 
 ## How the three refusals land

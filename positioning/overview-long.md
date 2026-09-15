@@ -180,19 +180,17 @@ The bands are not labels. They are the result of math, recalculated every day. A
 
 ---
 
-## Bounded custody
+## Bounded Retention
 
 Your systems of record stay your systems of record.
 
 AI4Love never writes back to your CRM, email platform, or enrichment source. Connections are read-only and run through OAuth, gateway-managed by Nango. Your credentials. Your scopes. Your revocation rights. If you disconnect us tomorrow, our access ends the same day.
 
-What AI4Love holds is one bounded working base per organization, in AI4Love's Airtable account, isolated from every other organization's, containing only the normalized activity signals and the insights the nightly agents need. It exists while you are a customer plus a 90-day exit window, then it is deleted. A full export or immediate deletion is available on request at any time.
-
-Owned Copy is planned: a nightly, write-only sync of your people, activity and insight records to a file your organization owns in its own workspace. It is designed and available to be provisioned per organization and is not yet running in production. We describe it in the present tense only once it is.
+AI4Love holds one working Airtable base per organization in AI4Love's account as a service provider. The base is isolated per organization. It exists only while service is active plus a 90-day exit window, then it is deleted. Full export is available on request. The client organization remains the institution responsible for the personal information under FIPPA. An organization-held mirror (Owned Copy) is designed but not running in production and is described only as planned.
 
 For procurement teams: this answers four questions at once. Does the vendor write into our systems of record? No. Does the vendor keep our data after we leave? No, deleted after the 90-day exit window. Does the vendor force centralization? No. Can humans override every recommendation? Yes.
 
-Bounded custody is not a feature toggle. It is the architecture, and it is documented in the public Trust Center.
+Bounded Retention is not a feature toggle. It is the architecture, and it is documented in the public Trust Center.
 
 ---
 

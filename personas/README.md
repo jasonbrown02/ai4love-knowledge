@@ -45,7 +45,7 @@ AI4Love is not really selling AI. It is selling coordination.
 
 The strongest buyers are already surrounded by tools. Their pain is not missing software. It is missing shared attention. In large institutions, the same supporter appears in too many partial views. AI4Love is valuable when it reduces political friction between units, not when it promises better predictions.
 
-Governance is not a blocker. It is a wedge. The bounded-custody (read-only sources, one isolated working base deleted after the exit window), no-automated-outreach, suppression-first model speaks directly to the Trust-Layer buyer. That buyer kills weak AI tools before a VP ever sees them.
+Governance is not a blocker. It is a wedge. The Bounded Retention (read-only sources, one isolated working base deleted after the exit window), no-automated-outreach, suppression-first model speaks directly to the Trust-Layer buyer. That buyer kills weak AI tools before a VP ever sees them.
 
 The tension: Operational Champions (Kimberly, Emily) want relief fast. Trust-Layer buyers (Marc-André) want control, lineage, and safety. The sales motion needs both proof and restraint.
 
